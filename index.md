@@ -12,9 +12,9 @@ The problem we hope to solve with this application is the lack of awareness most
 
 To implement this website, we will be using various useful tools such as:
 
-* React for component-based UI implementation and routing
-* React Bootstrap for CSS Framework and UI Design
-* Gemini API for event classifications and alignment with users
+* **React** for component-based UI implementation and routing
+* **React Bootstrap** for CSS Framework and UI Design
+* **Gemini API** for event classifications and alignment with users
 
 ## Goals
 As mentioned previously, our priority for this application is to create an event hub catered to students to help them get more involved with the events going on around campus whether they be social or career driven based on their interests and major. Our AI of our choosing will be used to understand the content of event descriptions, classify the event in terms of interest areas, ingest the event information into the events database and identify if the event that aligns with the interests is already specified in user profiles. The ability to view other events similar to, or outside of their liking, will be given too if students feel adventurous. If time permits, we also hope to incorporate notifications via email or text messaging to improve the quality of the service. Furthermore, we would also love to add a feedback function for users to make on events they've attended so other students can get an idea beforehand of how other students enjoyed them. 
