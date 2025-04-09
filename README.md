@@ -1,1 +1,1 @@
-# smart-campus-events.github.io
+# manoa-compass.github.io
