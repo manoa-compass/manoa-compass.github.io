@@ -1,0 +1,4 @@
+title: Manoa Compass
+theme: jekyll-theme-architect
+gems:
+  - jekyll-mentions
