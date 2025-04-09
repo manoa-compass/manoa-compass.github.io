@@ -35,4 +35,7 @@ The profile page should include a picture of the student and a list of their sel
 
 <img src="imgs/profile.webp">
 
+## Browse Page
+Students will have the option to look through their AI-chosen events, all of the events currently in the UH Manoa Campus Events Calendar, or get events chosen for them.
 
+* NEED TO ADD PICTURE HERE + GOALS, NOT DONE YET
