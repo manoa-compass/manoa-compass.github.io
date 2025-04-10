@@ -43,6 +43,9 @@ On this page, students will have the option to look through their AI-chosen even
 
 <img src="imgs/events.png">
 
+# Team Contract
+The team contract we all agreed upon can be viewed [here](https://docs.google.com/document/d/113gzfztCkZ03NJD8yignc65mnAk4yQBYTuVxveX-wl4/edit?tab=t.0)
+
 # Vercel 
 
 ______ (Link to Manoa Compass in Vercel)
@@ -51,6 +54,6 @@ ______ (Link to Manoa Compass in Vercel)
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-<img src="imgs/milestone1.png">
-
 Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](https://github.com/orgs/manoa-compass/projects/1/views/1)
+
+<img src="imgs/milestone1.png">
