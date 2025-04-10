@@ -45,9 +45,9 @@ On this page, students will have the option to look through their AI-chosen even
 
 # Vercel 
 
-______ (Link to Manoa Compass in Vercel
+______ (Link to Manoa Compass in Vercel)
 
-#Milestone 1: Mockup Development
+# Milestone 1: Mockup Development
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
