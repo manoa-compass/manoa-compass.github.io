@@ -42,3 +42,15 @@ The profile page should include a picture of the student and a list of their sel
 On this page, students will have the option to look through their AI-chosen events, all of the events currently in the UH Manoa Campus Events Calendar, or get events chosen for them.
 
 <img src="imgs/events.png">
+
+# Vercel 
+
+______ (Link to Manoa Compass in Vercel
+
+#Milestone 1: Mockup Development
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+<img src="imgs/milestone1.png">
+
+Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](https://github.com/orgs/manoa-compass/projects/1/views/1)
