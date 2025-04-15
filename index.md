@@ -67,4 +67,6 @@ The event suggestion page will suggest different events to attend based on your 
 On these pages you can learn more about the event, including key details such as a summary of what it is, when, where, and times for activities. These will only be fully implemented if we have finished the base app.
 
 <img src="imgs/event-info.png">
+<img src="imgs/event-info-2.png">
 <img src="imgs/club-info.png">
+<img src="imgs/club-info-2.png">
