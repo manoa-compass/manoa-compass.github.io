@@ -39,7 +39,7 @@ The profile page should include a picture of the student and a list of their sel
 ## Browse Page
 On this page, students will have the option to look through their AI-chosen clubs, all of the clubs currently in the UH Manoa Campus Events Calendar, or get clubs chosen for them. We plan to implement a similar formatted page for events as well.
 
-<img src="imgs/events.png">
+<img src="imgs/browsepage.png">
 
 ## Event Suggestion Page
 The event suggestion page will suggest different events to attend based on your interests, along with other events that have a small overlap if you want to try something new. Clicking on one of the cards will either take you directly to the event page, or a custom event information page if we have time.
