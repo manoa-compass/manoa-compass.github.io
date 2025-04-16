@@ -67,7 +67,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:]([https://github.com/orgs/manoa-compass/projects/1/views/1](https://github.com/orgs/manoa-compass/projects/2/views/1))
 
-<img src="imgs/milestone1.png">
+<img src="imgs/finmilestone1.png">
 
 # Milestone 2 : Backend Development + AI Research
 
