@@ -22,7 +22,7 @@ As mentioned previously, our priority for this application is to create an event
 # Mockup Pages
 
 ## Landing Page
-The landing page will have a very simplistic yet user-interactive format with a similar layout to the one you see below. The NavBar will have pages like "Profile" and "Browse your Events"
+The landing page is a simplistic yet user-interactive format with a similar layout to the one you see below. The NavBar will contain the other pages that go to the user's profile, events and clubs, or their dashboard showing all their chosen events.
 
 <img src="imgs/landing.png">
 
