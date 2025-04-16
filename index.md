@@ -26,20 +26,18 @@ The landing page will have a very simplistic yet user-interactive format with a 
 
 <img src="imgs/landing.png">
 
-## Sign In/Up
-Our sign-up and sign-in pages will be extremely similar to the digits formatting because of its simplicity and so we can focus on other areas of the website more.
+## Sign Up
+Our sign-up page will not only prompt the user for their email and a chosen password, but will also ask what their major, interests, name, age, etc. are to gather necessary information for the AI to match events/clubs to the user.
 
-<img src="imgs/signin.png">
-
-<img src="imgs/signup.png">
+<img src="imgs/usersignup.png">
 
 ## Profile Page
-The profile page should include a picture of the student and a list of their selected interest categories for events. The basic information that comes with a profile page is the username, email, major, and birthday.
+The profile page should include a picture of the student and a list of their selected interest categories for events. The basic information that comes with a profile page is the username, email, major, and birthday. It also features the saved events and clubs that the user is a part of/wants to attend.
 
-<img src="imgs/profile.webp">
+<img src="imgs/userprofile.png">
 
 ## Browse Page
-On this page, students will have the option to look through their AI-chosen events, all of the events currently in the UH Manoa Campus Events Calendar, or get events chosen for them.
+On this page, students will have the option to look through their AI-chosen clubs, all of the clubs currently in the UH Manoa Campus Events Calendar, or get clubs chosen for them. We plan to implement a similar formatted page for events as well.
 
 <img src="imgs/events.png">
 
