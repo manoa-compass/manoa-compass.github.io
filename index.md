@@ -43,21 +43,6 @@ On this page, students will have the option to look through their AI-chosen even
 
 <img src="imgs/events.png">
 
-# Team Contract
-The team contract we all agreed upon can be viewed [here](https://docs.google.com/document/d/113gzfztCkZ03NJD8yignc65mnAk4yQBYTuVxveX-wl4/edit?tab=t.0)
-
-# Deployment 
-
-[Link to Manoa Compass in Vercel](https://manoa-compass-code.vercel.app/) 
-
-# Milestone 1: Mockup Development
-
-The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
-
-Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](https://github.com/orgs/manoa-compass/projects/1/views/1)
-
-<img src="imgs/milestone1.png">
-
 ## Event Suggestion Page
 The event suggestion page will suggest different events to attend based on your interests, along with other events that have a small overlap if you want to try something new. Clicking on one of the cards will either take you directly to the event page, or a custom event information page if we have time.
 
@@ -70,3 +55,27 @@ On these pages you can learn more about the event, including key details such as
 <img src="imgs/event-info-2.png">
 <img src="imgs/club-info.png">
 <img src="imgs/club-info-2.png">
+
+# Team Contract
+The team contract we all agreed upon can be viewed [here](https://docs.google.com/document/d/113gzfztCkZ03NJD8yignc65mnAk4yQBYTuVxveX-wl4/edit?tab=t.0)
+
+# Deployment 
+
+[Link to Manoa Compass in Vercel](https://manoa-compass-code.vercel.app/) 
+
+# Milestone 1: Mockup Development
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:]([https://github.com/orgs/manoa-compass/projects/1/views/1](https://github.com/orgs/manoa-compass/projects/2/views/1))
+
+<img src="imgs/milestone1.png">
+
+# Milestone 2 : Backend Development + AI Research
+
+The goal of Milestone 2 is to make our website's backend for each page functionally correct and to dive into scraping the UH events and clubs in the school. Furthermore, one person will be dedicated to testing the AI and researching on how we can implement its functionality into our project.
+
+Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](https://github.com/orgs/manoa-compass/projects/1/views/1)
+
+<img src="imgs/milestone2.png">
+
