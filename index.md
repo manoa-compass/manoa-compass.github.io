@@ -75,7 +75,7 @@ Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](
 
 The goal of Milestone 2 is to make our website's backend for each page functionally correct and to dive into scraping the UH events and clubs in the school. Furthermore, one person will be dedicated to testing the AI and researching on how we can implement its functionality into our project.
 
-Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](https://github.com/orgs/manoa-compass/projects/1/views/1)
+Milestone 2 was managed using [Manoa Compass GitHub Project Board Milestone 2:](https://github.com/orgs/manoa-compass/projects/1/views/1)
 
 <img src="imgs/milestone2.png">
 
