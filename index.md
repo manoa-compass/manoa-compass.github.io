@@ -77,3 +77,9 @@ Milestone 2 was managed using [Manoa Compass GitHub Project Board Milestone 2:](
 
 <img src="imgs/milestone2.png">
 
+# Project Schema
+
+This is a flow of our project Schema, linking the user, club, and event attributes to the necessary components that allow our website to function as desired. 
+
+<img src="imgs/our_schema.png">
+
