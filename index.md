@@ -1,3 +1,5 @@
+## Build Status
+[![ci-nextjs-application-template](https://github.com/manoa-compass/manoa-compass-code/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/nextjs-application-template/actions/workflows/ci.yml)
 # Introduction
 
 Manoa Compass is an application that allows users to:
