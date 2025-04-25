@@ -68,7 +68,7 @@ The team contract we all agreed upon can be viewed [here](https://docs.google.co
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:]([https://github.com/orgs/manoa-compass/projects/1/views/1](https://github.com/orgs/manoa-compass/projects/2/views/1))
+Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](https://github.com/orgs/manoa-compass/projects/1)
 
 <img src="imgs/finmilestone1.png">
 
@@ -76,12 +76,14 @@ Milestone 1 was managed using [Manoa Compass GitHub Project Board Milestone 1:](
 
 The goal of Milestone 2 is to make our website's backend for each page functionally correct and to dive into scraping the UH events and clubs in the school. Furthermore, one person will be dedicated to testing the AI and researching on how we can implement its functionality into our project.
 
-Milestone 2 was managed using [Manoa Compass GitHub Project Board Milestone 2:](https://github.com/orgs/manoa-compass/projects/1/views/1)
+Milestone 2 was managed using [Manoa Compass GitHub Project Board Milestone 2:](https://github.com/orgs/manoa-compass/projects/2)
 
 <img src="imgs/Milestone2.png">
 
 # Milestone 3: AI Integration and Finishing Touches
 In Milestone 3 we worked on integrating the Gemini API to suggest events and clubs to users based on their profiles. We also worked on miscellaneous tasks that had been neglected so far such as finishing the navbar, creating robust tests, and allowing users to save events.
+
+Milestone 3 was managed using [Manoa Compass GitHub Project Board Milestone 2:](https://github.com/orgs/manoa-compass/projects/4)
 <img src="imgs/Milestone3.png">
 # Project Schema
 
@@ -89,3 +91,80 @@ This is a flow of our project Schema, linking the user, club, and event attribut
 
 <img src="imgs/our_schema.png">
 
+## Developer Guide
+
+Welcome to the developer guide for the Manoa Compass project! This guide will walk you through setting up your development environment, running the application, and understanding the codebase for modification and contribution.
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed on your system:
+
+* **Node.js:** (Version specified in `package.json`, if available, otherwise use a recent LTS version)
+* **npm** or **yarn:** Package manager for Node.js.
+* **Git:** For version control.
+* **A database compatible with Prisma:** (e.g., PostgreSQL, MySQL). Check `src/lib/prisma.ts` and potentially `prisma/schema.prisma` (not provided) for specifics.
+
+### Getting Started
+
+Follow these steps to get the project running locally:
+
+1.  **Download the Code:**
+    * Clone the repository using Git:
+        ```bash
+        git clone <repository-url>
+        cd <project-directory>
+        ```
+
+2.  **Installation:**
+    * Install project dependencies using npm or yarn:
+        ```bash
+        npm install
+        # or
+        yarn install
+        ```
+
+3.  **Configuration:**
+    * **Environment Variables:** Create a `.env` file in the root directory. Copy the contents of `.env.example` (if available) or add the necessary environment variables. Based on the code, you'll likely need:
+        * `DATABASE_URL`: Your database connection string (used by Prisma).
+        * `NEXTAUTH_SECRET`: A secret key for NextAuth.js. Generate one using `openssl rand -base64 32`.
+        * `GOOGLE_CLIENT_ID`: Your Google OAuth Client ID.
+        * `GOOGLE_CLIENT_SECRET`: Your Google OAuth Client Secret.
+        * *(Potentially others based on project needs)*
+    * **Database Setup:**
+        * Ensure your database server is running.
+        * Generate Prisma Client:
+            ```bash
+            npx prisma generate
+            ```
+        * Push the schema to your database (this creates or updates tables):
+            ```bash
+            npx prisma db push
+            ```
+            *(Note: For production or collaborative environments, consider using `prisma migrate dev`)*
+
+### Running the Application
+
+* Start the development server:
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
+* Open your web browser and navigate to `http://localhost:3000` (or the port specified in your console).
+
+### Key Features & Modules
+
+* **Authentication:** Handled by NextAuth.js, supporting Google OAuth and Email/Password credentials. Password hashing uses bcrypt.
+* **Database:** Prisma is used as the ORM to interact with the database.
+* **User Profiles:** Users can sign up, manage their profile information, interests, and change passwords.
+* **Clubs & Events:** Functionality exists for managing and viewing clubs and events, including admin approval workflows and RSVP capabilities.
+* **Recommendations:** An API endpoint provides recommendations based on user interests.
+* **Admin Features:** Includes importing data and approving content.
+* **Styling:** Uses CSS files, likely leveraging frameworks like Tailwind CSS or Bootstrap based on the HTML mockups and class names.
+
+### Modifying the Code
+
+* **Frontend:** Modify React components and pages within `src/app/`. Update styles in `src/app/globals.css` or relevant CSS Modules.
+* **Backend:** Modify API logic in the corresponding files under `src/app/api/`.
+* **Database Schema:** If you need to change the database structure, edit `prisma/schema.prisma` and run `npx prisma generate` and `npx prisma db push` (or `npx prisma migrate dev`).
+* **Shared Logic:** Update utility functions or configurations in `src/lib/`.
