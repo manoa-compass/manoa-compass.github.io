@@ -75,7 +75,9 @@ The goal of Milestone 2 is to make our website's backend for each page functiona
 
 Milestone 2 was managed using [Manoa Compass GitHub Project Board Milestone 2:](https://github.com/orgs/manoa-compass/projects/1/views/1)
 
-<img src="imgs/milestone2.png">
+<img src="imgs/Milestone2.png">
+
+# Milestone 3: AI Integration
 
 # Project Schema
 
