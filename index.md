@@ -1,5 +1,3 @@
-## Build Status
-[![ci-nextjs-application-template](https://github.com/manoa-compass/manoa-compass-code/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/nextjs-application-template/actions/workflows/ci.yml)
 # Introduction
 
 Manoa Compass is an application that allows users to:
@@ -9,6 +7,9 @@ Manoa Compass is an application that allows users to:
 * Look at filtered events catered to their selected interests and major chosen by AI.
 
 The problem we hope to solve with this application is the lack of awareness most students have about the events going on around campus. It's easy to just search up all the events happening around campus, but it can take forever to actually find ones that suit your interests and career path. Therefore, we want to make it easier for students to find specific events that meet their interests with our AI-integrated website.
+
+## Build Status
+[![ci-nextjs-application-template](https://github.com/manoa-compass/manoa-compass-code/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/nextjs-application-template/actions/workflows/ci.yml)
 
 ## Technologies
 
