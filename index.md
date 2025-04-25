@@ -111,8 +111,8 @@ Follow these steps to get the project running locally:
 1.  **Download the Code:**
     * Clone the repository using Git:
         ```bash
-        git clone <repository-url>
-        cd <project-directory>
+        git clone [https://github.com/manoa-compass/manoa-compass-code](https://github.com/manoa-compass/manoa-compass-code)
+        cd manoa-compass-code
         ```
 
 2.  **Installation:**
