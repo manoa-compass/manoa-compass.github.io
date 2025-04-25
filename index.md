@@ -83,7 +83,7 @@ Milestone 2 was managed using [Manoa Compass GitHub Project Board Milestone 2:](
 # Milestone 3: AI Integration and Finishing Touches
 In Milestone 3 we worked on integrating the Gemini API to suggest events and clubs to users based on their profiles. We also worked on miscellaneous tasks that had been neglected so far such as finishing the navbar, creating robust tests, and allowing users to save events.
 
-Milestone 3 was managed using [Manoa Compass GitHub Project Board Milestone 2:](https://github.com/orgs/manoa-compass/projects/4)
+Milestone 3 was managed using [Manoa Compass GitHub Project Board Milestone 3:](https://github.com/orgs/manoa-compass/projects/4)
 <img src="imgs/Milestone3.png">
 # Project Schema
 
