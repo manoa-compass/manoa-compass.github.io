@@ -38,7 +38,7 @@ Our sign-up page will not only prompt the user for their email and a chosen pass
 <img src="imgs/mile2step5.png">
 
 ## Profile Page
-The profile page should include a picture of the student and a list of their selected interest categories for events. The basic information that comes with a profile page is the username, email, major, and birthday. It also features the saved events and clubs that the user is a part of/wants to attend.
+The profile page should include a picture of the student and a list of their selected interest categories for events. The basic information that comes with a profile page is the username, email, major, interests, age range, origin town, comfort level, and an about me section. It also features the saved events and clubs that the user is a part of/wants to attend.
 
 <img src="imgs/mile2profile.png">
 
