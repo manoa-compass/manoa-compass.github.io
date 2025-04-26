@@ -32,12 +32,15 @@ The landing page is a simplistic yet user-interactive format with a similar layo
 ## Sign Up
 Our sign-up page will not only prompt the user for their email and a chosen password, but will also ask what their major, interests, name, age, etc. are to gather necessary information for the AI to match events/clubs to the user.
 
-<img src="imgs/usersignup.png">
+<img src="imgs/mile2step2.png">
+<img src="imgs/mile2step3.png">
+<img src="imgs/mile2step4.png">
+<img src="imgs/mile2step5.png">
 
 ## Profile Page
 The profile page should include a picture of the student and a list of their selected interest categories for events. The basic information that comes with a profile page is the username, email, major, and birthday. It also features the saved events and clubs that the user is a part of/wants to attend.
 
-<img src="imgs/userprofile.png">
+<img src="imgs/mile2profile.png">
 
 ## Browse Page
 On this page, students will have the option to look through their AI-chosen clubs, all of the clubs currently in the UH Manoa Campus Events Calendar, or get clubs chosen for them. We plan to implement a similar formatted page for events as well.
