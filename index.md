@@ -105,6 +105,8 @@ This is a flow of our project Schema, linking the user, club, and event attribut
 
 <img src="imgs/our_schema.png">
 
+## Community Feedback
+Overall the testers thought our app worked well and could be useful for people to find events they may want to attend on campus. However the major criticism was that the loading times are really long, especially for the Suggestions page. Unfortunately this is kind of unavoidable with the gemini free api as you are limited in the amount of requests you can send per minute to only 15 and if you send to many at once it doesnt respond, so we have to space them out and the page takes around 30 seconds to load. To address this we implemented a caching feature where after opening the page one time it will save the returned lists for a few minutes giving quick access. The thing they like the most was the UI and the sign up process, they thought it was very polished and good looking.
 ## Developer Guide
 
 Welcome to the developer guide for the Manoa Compass project! This guide will walk you through setting up your development environment, running the application, and understanding the codebase for modification and contribution.
