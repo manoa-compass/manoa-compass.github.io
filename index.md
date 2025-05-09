@@ -50,8 +50,19 @@ On this page, students will have the option to look through their AI-chosen club
 ## Event Suggestion Page
 The event suggestion page will suggest different events to attend based on your interests, along with other events that have a small overlap if you want to try something new. Clicking on one of the cards will either take you directly to the event page, or a custom event information page if we have time.
 
-<img src="imgs/event-suggestion.png">
+<img src="imgs/event_suggestion.png">
+<img src="imgs/club_suggestion.png">
 
+## Admin Page
+Here the admin has the ability to confirm or deny clubs and events, create new ones, and delete and edit existing ones.
+<img src="imgs/admin_manage_clubs.png">
+<img src="imgs/admin_manage_events.png">
+<img src="imgs/edit_events.png">
+They can also edit the existing categories and promote other users to admin level. 
+<img src="imgs/add_category.png">
+<img src="imgs/edit_users.png">
+The final thing they can do is run the web scraping scripts by pressing either button. They will also run automatically once a day.
+<img src="imgs/admin_scraping.png">
 ## Club and Event Information Pages
 On these pages you can learn more about the event, including key details such as a summary of what it is, when, where, and times for activities. These will only be fully implemented if we have finished the base app.
 
