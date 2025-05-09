@@ -76,7 +76,7 @@ The team contract we all agreed upon can be viewed [here](https://docs.google.co
 
 # Deployment 
 
-[Link to Manoa Compass in Vercel](https://manoa-compass-code.vercel.app/) 
+[Link to Manoa Compass in Vercel](https://manoa-compass-code-theta.vercel.app/) 
 
 # Milestone 1: Mockup Development
 
